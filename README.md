@@ -12,7 +12,6 @@
 - Master of Science - Finance (concentrating in FinTech) - Dec '25
 - Bachelor of Computer Science - Dec '23
 
-Haven't been utilizing GitHub as much as I should have. Am slowly uploading my previous projects 🙏🏼
    
 # Tech Stack:
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
