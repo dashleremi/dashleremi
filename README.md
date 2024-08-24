@@ -9,7 +9,9 @@
 
 
 # Education 🎓 
+University of Central Florida
 - Master of Science - Finance (concentrating in FinTech) - Dec '25
+Florida International University
 - Bachelor of Computer Science - Dec '23
 
    
