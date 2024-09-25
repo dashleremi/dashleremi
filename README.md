@@ -6,11 +6,6 @@
 - ✨ I’m looking to collaborate on any projects to expand my horizons.
 
 - 📲 How to reach me: dashleremi@gmail.com | designsbyemidashler@outlook.com
-
-
-# Education 🎓 
-University of Central Florida
-- Master of Science - Finance (concentrating in FinTech) - Dec '25
   
 Florida International University
 - Bachelor of Computer Science - Dec '23
