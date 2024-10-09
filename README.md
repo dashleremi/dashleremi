@@ -1,5 +1,4 @@
 # About Me:
-- 👋 Hi, I’m Ramiaemi Dashler
 
 - 🌸 I’m interested in creating beautiful and functional websites.
 - 🖥️ I’m currently advancing my skills in Node, React, Swift/SwiftUI, and much more!
