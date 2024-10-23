@@ -21,6 +21,4 @@ Cloud computing and SaaS development specializing in AI/ML
 
 📲 How to reach me: emi.dashler@gmail.com (primary) | dashleremi@gmail.com (secondary)
 
-📊 GitHub Stats
-
 Thanks for stopping by! 😊
