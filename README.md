@@ -1,22 +1,22 @@
-# About Me:
+# Hello, I'm Ramiaemi Dashler 👋
 
-I'm a Software Engineer and UX/UI Designer with a passion for creating seamless user experiences and innovative solutions. I have a background in front-end development, artificial intelligence, and digital design, with expertise in technologies such as Python, JavaScript, CSS, and more.
+Software Engineer specializing in modern web technologies and full-stack development. I craft robust, scalable applications with a focus on performance optimization and exceptional user experiences.
 
-Welcome to my GitHub! Here you'll find a collection of my projects, ranging from web development to AI-driven applications. I'm constantly learning and building, so feel free to explore my repositories.
+## 🛠 Technical Arsenal
+- **Frontend:** React, Next.js, Vue.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, RESTful APIs
+- **Core:** JavaScript, Python, Java, C/C++
+- **Tools:** Git, CI/CD, AWS, MongoDB
 
-🔧 Technologies & Tools
-Languages: Python, JavaScript, TypeScript, Java, SQL, HTML, CSS, C, Swift
-Frameworks/Libraries: React, Next.js, Express, Node.js, Tailwind CSS, Flask, Vue.js
-Tools: Figma, Adobe XD, Git, Docker, VS Code, MongoDB
+## 💡 Engineering Philosophy
+I believe in writing clean, maintainable code that solves real problems. My experience spans from optimizing application performance by 40% to building data visualization systems serving 500+ users.
 
-🌱 What I'm Learning
-I'm currently improving my skills in:
+## 🌟 Key Projects
+- Building data-driven web applications with Next.js and Node.js
+- Developing bilingual content delivery systems
+- Creating reusable component libraries for enterprise applications
 
-UX/UI Design, Product Design
-Artificial Intelligence and Machine Learning
-Advanced JavaScript/TypeScript and React
-Cloud computing and SaaS development specializing in AI/ML
-
-📲 How to reach me: emi.dashler@gmail.com (primary) | dashleremi@gmail.com (secondary)
-
-Thanks for stopping by! 😊
+## 📫 Let's Connect
+- Portfolio: [ramiaemidashler.com](https://ramiaemidashler.com)
+- Email: emi.dashler@gmail.com
+- LinkedIn: [in/ramiaemidashler](https://linkedin.com/in/ramiaemidashler)
