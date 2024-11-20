@@ -9,7 +9,7 @@ Software Engineer specializing in modern web technologies and full-stack develop
 - **Tools:** Git, CI/CD, AWS, MongoDB
 
 ## 💡 Engineering Philosophy
-I believe in writing clean, maintainable code that solves real problems. My experience spans from optimizing application performance by 40% to building data visualization systems serving 500+ users.
+I believe in writing clean, maintainable code that solves real problems.
 
 ## 🌟 Key Projects
 - Building data-driven web applications with Next.js and Node.js
