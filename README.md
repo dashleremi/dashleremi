@@ -7,7 +7,8 @@ Software Engineer specializing in modern web technologies and full-stack develop
 - **Backend:** Node.js, Express, RESTful APIs
 - **Core:** JavaScript, Python, Java, C/C++
 - **Tools:** Git, CI/CD, AWS, MongoDB
-
+- **CMS:** Shopify, Webflow, WordPress
+  
 ## 💡 Engineering Philosophy
 I believe in writing clean, maintainable code that solves real problems.
 
